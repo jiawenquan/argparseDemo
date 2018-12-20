@@ -1,0 +1,6 @@
+﻿.idea/
+build/
+dist/
+argparsedemo.egg-info/
+*.bak
+*.pyc
